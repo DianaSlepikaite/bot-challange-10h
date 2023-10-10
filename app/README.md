@@ -25,7 +25,7 @@ run npm start
 After that you will be taken to the bot interface.
 
 To interact with the bot just type in the questions such as:
-"How many people were born in 1957?"
-"How many teens in the household?"
+- "How many people were born in 1957?"
+- "How many teens in the household?"
 
 ![](chat.png)
