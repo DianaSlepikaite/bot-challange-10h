@@ -9,12 +9,12 @@ Currently, two official plugins are available:
 
 This is a AI chatbot, made with React+Vite, python, langchain and OpenAI.
 
--constants.py is where API key is being stored, please add the key there for the application to work
+- constants.py is where API key is being stored, please add the key there for the application to work
 - chatgpt.py the AI is handled and the ml_project1_data.csv file is being fed into the AI
 - App.jsx app file that handles the front end, using @chatscope/chat-ui-kit-react
 
 to run this:
-
+*make sure the API key was added*
 ```
 run python3 chatgpt.py
 #then on a new terminal
