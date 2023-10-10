@@ -18,7 +18,7 @@ to run this:
 ```
 run python3 chatgpt.py
 #then on a new terminal
-run npm start
+run npm run dev
 
 ```
 
